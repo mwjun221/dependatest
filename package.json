@@ -1,0 +1,22 @@
+{
+  "name": "dependatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwjun221/dependatest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwjun221/dependatest/issues"
+  },
+  "homepage": "https://github.com/mwjun221/dependatest#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
